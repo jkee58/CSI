@@ -1,0 +1,13 @@
+matplotlib
+numpy
+packaging
+prettytable
+scipy
+# Add for CSI
+wandb
+nvitop
+timm
+transformers
+kornia
+overrides
+einops
